@@ -1,3 +1,3 @@
-# SCT_Machine-Learning_1
+# House price linear regression model
 This project focuses on building a Machine Learning model using Linear Regression to predict house prices based on key housing features such as area (square footage), number of bedrooms, and number of bathrooms. The project was developed using Python in Google Colab and utilizes popular libraries including Pandas, NumPy, Scikit-learn, and Matplotlib. It covers the complete Machine Learning workflow, including data loading, preprocessing, train-test splitting, model training, prediction, performance evaluation using MAE and MSE metrics, and visualization of actual vs predicted house prices. The project demonstrates how Machine Learning algorithms can be used for real-world price prediction problems.
 
